@@ -1,4 +1,4 @@
 # Brief2
 <img src="brief2.jpg" alt="mockup"/>
 
-lien: yassinebilal.netlify.app
+lien: https://yassinebilal.netlify.app/index.html
